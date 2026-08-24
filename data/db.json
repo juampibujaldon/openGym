@@ -4,6 +4,11 @@
       "id": "piYdx5GveQarq8u9",
       "name": "Arvids",
       "created": "2026-08-03T18:06:47.577Z"
+    },
+    {
+      "id": "dyrSSb78uLiWgZti",
+      "name": "Juampi",
+      "created": "2026-08-23T16:24:03.898Z"
     }
   ],
   "creds": [
@@ -15,6 +20,16 @@
       "transports": [
         "internal",
         "hybrid"
+      ]
+    },
+    {
+      "id": "Wg9Rxfu7pG4FXvfrUY0Kx796tGk",
+      "userId": "dyrSSb78uLiWgZti",
+      "publicKey": "pQECAyYgASFYIBM6SRjyjbtILVpK6hvyg850vRIyEFEgJHuwKGU8mCjFIlgg8q3VH2Ji-61_453wFytQFrAloDFA5bSj-_Mkzf2ELTc",
+      "counter": 0,
+      "transports": [
+        "hybrid",
+        "internal"
       ]
     }
   ],
